@@ -1,0 +1,423 @@
+
+/* background img*/
+body 
+{
+	background-size: cover;
+}
+
+/* this is the menubar*/
+
+#menubar
+{	
+	padding-top: .5%;
+	padding-bottom: 3.5%;
+	width:100%;
+	height:3%;
+	background-color:#75BDAB;
+}
+
+#menubar li
+{
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 21%;
+	display:inline;
+	font-family:helvetica;
+}
+
+li
+{
+	float:right;
+	display:inline;
+}
+#p
+{
+	font-family:helvetica;	
+	font-size: 25%;
+
+}
+
+/* Niamh*/
+a:link
+{
+	display:block;
+	width:100%;
+	height:65%;
+	font-weight:bold;
+	
+	text-align:center;
+	padding-bottom: 8%;
+	padding-top:2%;
+	padding-left: 8%;
+	padding-right: 8%;
+	text-decoration: none;
+	text-transform: uppercase;
+	float:right;
+}
+
+a:visited
+{
+	color:purple;
+}
+
+a:hover,a:active
+{
+	border-width:1px;
+	color:red;
+	
+}
+
+/* this is the menubar*/
+	
+	
+	
+#adverts
+{
+	clear:both;
+	float:left;
+	padding-bottom:5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color:#75BDAB;
+
+}	
+/* Niamh*/
+#adverts2
+{
+	clear:both;
+	float:left;
+	padding-bottom:5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color:#75BDAB;
+	width:400px;
+	height:400px;
+
+
+}
+/* Niamh*/
+#adverts2 img
+{
+	width:100%;
+	height:100%;
+}
+
+
+/* main page image */
+#team
+{
+	clear:both;
+	float:right;
+	padding-bottom:5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color:#75BDAB;
+	margin-bottom:10px;
+}
+#team2
+{
+	clear: both;
+	float:right;
+	padding-bottom:5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color:#75BDAB;
+	margin-bottom:15px;
+}
+/* h1 is menu bar name*/
+h1
+{
+	font-size:80px;
+	color:black;
+	text-align:center;
+	font-family:helvetica;
+
+}
+
+h2
+{
+	font-size:25px;
+	color:black;
+	text-align:center;
+	font-family:helvetica;
+
+}
+/* rorys content */
+#contentr
+{
+	float:right;
+	height:100px;
+	width:600px;
+	color:black;
+	font-size:16px;
+	clear:both;
+	margin:2px;
+	padding-top:15px;
+	font-family:helvetica;
+	text-align:center;
+} 
+/*niamh*/
+#contentn
+{
+	float:right;
+	height:100px;
+	width:800px;
+	color:black;
+	font-size:16px;
+	margin:2px;
+	font-family:helvetica;
+} 
+
+#newcontentn
+{
+	float:left;
+	height:100px;
+	width:98%;
+	color:#980000;
+	font-size:16px;
+	clear:both;
+	margin:2px;
+	font-family:helvetica;
+} 
+
+#imagesn
+{
+clear:both;
+width: 100%; 
+float:left;
+display:inline;
+}
+
+
+#imagesn li {
+	list-style: none;  margin: 15px;
+	display:inline; float: left;
+	
+}
+
+#imagesn a img {
+	border: 5px solid #aaa;
+	width: 160px;
+	float: left;
+	margin:15px;
+	display:inline;
+}
+
+#imagesn a:hover img 
+{
+	border: 5px solid #75879d;
+	width:180px;
+}
+
+
+/* home page bla */
+
+#bla
+{
+	height:100px;
+	width:600px;
+	color:black;
+	font-size:16px;
+	font-family:helvetica;
+	font-weight:bold;
+	margin-top: 15px;
+
+}
+/* home page */
+#content
+{
+	float:right;
+	height:100px;
+	width:600px;
+	color:black;
+	font-size:16px;
+	clear:both;
+	margin:2px;
+	padding-top:15px;
+	font-family:helvetica;
+} 
+
+#images
+{
+	clear:both;
+	padding-bottom:25px;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color:#75BDAB;
+}
+
+#footer
+{
+	background-color:#75BDAB;
+	width:100%;
+	height:10%;
+	padding-top: .5%;
+	padding-bottom: 3.5%;
+	clear:both;
+	text-align:center;
+}
+
+#headpic
+{
+	height:.5px;
+	width:.5px;
+	float:left;
+	margin:10px;
+}
+/* main page h1*/
+#heading
+{
+	font-family:helvetica;
+	font-weight:bold;
+	font-size:20px;
+}
+/*rory*/
+#contentr
+{
+	clear:both;
+	float:right;
+	width:50%;
+	height:50%;
+	font-weight:bold;
+	font-size:30px;
+
+}
+#contentsr
+{
+	float:left;
+	height:100px;
+	width:50%;
+	color:black;
+	font-size:16px;
+	margin:2px;
+	font-family:helvetica;
+
+}
+#list
+{
+	float:left;
+	clear:both;
+	padding:25px;
+	color:blue;
+	background-color:red;
+
+}
+#cure
+{
+	float:right;
+	margin-top:40px;
+	margin-right:25px;
+	width:40%;	
+}
+#tricks
+{
+	float:right;
+	clear:both;
+	color:red;
+	width:50%;
+	font-size:30px;
+	font-family:helvetica;
+	margin-right:25px;
+}
+
+#Zombieism
+{
+	float:left;
+	height:100px;
+	width:100%;
+	color:#980000;
+	font-size:16px;
+	clear:both;
+	margin:2px;
+	font-family:helvetica;
+}
+
+#treat
+{
+	float:right;
+	margin-top:40px;
+	margin-right:25px;
+	margin-bottom:25px;
+	margin-left:25px;
+	width:98%;
+}
+
+#actions
+{
+	clear:both;
+	float:right;
+	font-family:helvetica;
+	width:40%;
+	clear:both;
+}
+
+#zlist
+{
+	clear:both;
+	float:left;
+	font-family:helvetica;
+	width:100%;
+	margin-bottom:15px;
+}
+
+#trick
+{
+	clear:both;
+	float:right;
+}
+#tricks
+{
+	float:right;
+	height:260px;
+	width:50%;
+	color:black;
+	font-size:100%;
+	clear:both;
+	margin:25px;
+	font-family:helvetica;
+}
+#checklist
+{
+	clear:both;
+	float:left;
+	font-family:helvetica;
+	width:100%;
+}
+/*Adnan*/
+#contactus
+{
+	float:right;
+	height:100px;
+	width:800px;
+	color:black;
+	font-size:16px;
+	margin:22px;
+	font-family:helvetica;
+}
+#address
+{
+	font-family:helvetica;
+	margin-top:20px;
+}
+#contact
+{
+	font-family:helvetica;
+}
+#contact1
+{
+	font-family:helvetica;
+}
+#unit
+{
+	width:45.5%;
+	padding-bottom:5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color:#75BDAB;
+}
